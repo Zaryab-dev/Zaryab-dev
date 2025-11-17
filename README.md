@@ -1,190 +1,195 @@
-# Muhammad Zaryab — Full-Stack Developer
+<!-- ─────────────────────────────────────────────────────────── -->
+<!-- 🔥 FUTURISTIC BANNER -->
+<!-- ─────────────────────────────────────────────────────────── -->
 
-Hi, I’m **Zaryab**, a full-stack developer specializing in **Flutter**, **Django**, **Next.js**, and **AI automation**.  
-I build clean, scalable, and modern digital experiences with performance and design in mind.
-
----
-
-## 🚀 What I Do
-- Cross-platform apps with Flutter  
-- Scalable Django REST APIs  
-- SEO-optimized web apps with Next.js  
-- AI-powered automation systems  
-
----
-
-## 🔧 Tech Stack
-**Frontend:** Flutter, Dart, Next.js, React, TypeScript  
-**Backend:** Django, DRF, Python  
-**Databases:** PostgreSQL, Firebase, Supabase  
-**Tools:** GitHub, Vercel, Firebase Hosting  
-**AI:** Gemini, OpenAI, OCR, AI automation  
-
----
-
-## 📌 Projects
-- MobiSpec — phone specification platform  
-- Prime_Vault — e-commerce app with theme editor  
-- Real-time Bus Booking App  
-- OCR App (glassmorphism UI)  
-- Chatbot App (Gemini API)  
-- AI Teeth Whitening Generator  
-
----
-
-## 📫 Contact  
-🌐 https://zaryab.dev  
-📧 contact@zaryab.dev
-
-<h1 align="center">⚡ Z A R Y A B  K H A N ⚡</h1>
 <p align="center">
-  <strong>Full-Stack Developer • Flutter • Django • Next.js • AI Engineer</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=28&center=true&vCenter=true&width=900&lines=Zaryab+Khan+-+Full+Stack+Developer;Flutter+Expert+%7C+Django+Engineer+%7C+Next.js+Developer;Building+Futuristic+AI+%26+Cross-Platform+Experiences;Welcome+to+My+Cyber+Profile+⚡" />
+</p>
+
+<br />
+
+<!-- ─────────────────────────────────────────────────────────── -->
+# ⚡ **Muhammad Zaryab**
+### **Full-Stack Developer — Flutter • Django • Next.js • AI Automation**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+I’m **Zaryab**, a full-stack developer who blends **cyberpunk futurism**, **Apple-style minimalism**, and **premium design aesthetics** into functional, scalable, and beautiful software.
+
+My work spans across **Flutter**, **Django**, **Next.js**, **AI**, and **real-world app architectures**.
+
+---
+
+<!-- ─────────────────────────────────────────────────────────── -->
+# 🌌 **Futuristic Cyberpunk Overview**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+- ⚡ UI with glowing colors, neon edges, Rive animations  
+- 🤖 AI integrations (Gemini, OpenAI, OCR)  
+- 🛠 Scalable Django REST APIs + PostgreSQL  
+- 📱 Multi-platform Flutter apps (Android, iOS, Web)  
+- ⚡ SEO-perfect Next.js + Sanity CMS  
+- 🔐 Fraud detection models, ML logic, automation systems  
+
+---
+
+<!-- ─────────────────────────────────────────────────────────── -->
+# 🍏 **Minimal & Clean — Apple Style**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+### What I value:
+- ✨ Clarity  
+- 🧩 Clean architecture  
+- 🚀 Performance  
+- 🎨 Seamless UI  
+- 🧠 Intelligent automation  
+
+### What I build:
+- Modern Flutter UIs  
+- Real-time booking systems  
+- E-commerce engines  
+- AI-driven applications  
+- SEO-optimized blogs & portfolios  
+
+---
+
+<!-- ─────────────────────────────────────────────────────────── -->
+# 💎 **Premium Developer Portfolio Section**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+### 🧠 **Current Major Project — MobiSpec**
+An advanced smartphone specification platform:
+
+- Flutter multi-platform app  
+- Django REST backend  
+- Cloud image storage  
+- Search, filters, reviews  
+- AI phone recommendations  
+- SEO blog automation with Next.js  
+
+---
+
+# 🛠 **Tech Stack Arsenal**
+
+### **Frontend**
+`Flutter` • `Dart` • `Next.js` • `React` • `TypeScript` • `Tailwind` • `Rive`
+
+### **Backend**
+`Django` • `DRF` • `Python` • `Node.js (Basics)`
+
+### **Databases**
+`PostgreSQL` • `Firebase` • `Supabase` • `MongoDB`
+
+### **AI / ML**
+`Gemini API` • `OpenAI API` • `Tesseract OCR` • `AI Automation`
+
+### **Tools**
+`GitHub` • `GitHub Actions` • `Vercel` • `Firebase Hosting` • `AWS (Basics)`
+
+---
+
+<!-- ─────────────────────────────────────────────────────────── -->
+# 🎨 **THEME COLLECTION (Bonus Styles Included)**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+### 🌈 **Pastel Theme**
+Soft, friendly UI and clean typography.
+
+### 🎨 **Gradient Theme**
+Smooth linear gradients with modern layouts.
+
+### 🧱 **Brutalist Theme**
+Raw typography + bold layout inspired by brutalism.
+
+### 😄 **Emoji-Style Theme**
+Fun, vibrant, expressive designs.
+
+### ✨ **Glossy Theme**
+Glassmorphism + neon shine + premium look.
+
+> If you'd like, I can convert any of these into **full README versions**.  
+
+---
+
+<!-- ─────────────────────────────────────────────────────────── -->
+# 🌀 **Fully Animated Version (Live Typing + Glow Animations)**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&width=800&lines=Flutter+Architect;Django+API+Engineer;Next.js+Developer;AI+Integrator;Creative+Problem+Solver" />
 </p>
 
 ---
 
+<!-- ─────────────────────────────────────────────────────────── -->
+# 🖼 **Custom Futuristic Banner (Generated)**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+> You can use this placeholder banner until I generate your real one:  
+> **(If you want the real futuristic/neon/minimal banners, just say “Generate banner”)**
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&width=750&lines=Building+Futuristic+Digital+Experiences;Flutter+Expert;Django+Architect;Next.js+Developer;AI+%2F+ML+Integrator" />
+  <img src="https://via.placeholder.com/1200x300/0f0f0f/38bdf8?text=Zaryab+Khan+-+Full+Stack+Developer+%7C+Futuristic+Banner" />
 </p>
 
 ---
 
-## 🧬 About Me  
-I build next-generation apps with **fluid UI**, **scalable backends**, and **AI automation**.  
-My work blends design, engineering, and modern architecture into cyber-clean products.
+<!-- ─────────────────────────────────────────────────────────── -->
+# 🚀 **Featured Work**
+<!-- ─────────────────────────────────────────────────────────── -->
+
+- 🤖 **Chatbot App** (Flutter + Gemini)  
+- 🔍 **OCR App** (Glassmorphism + Tesseract)  
+- 🚌 **Real-time Bus Booking App**  
+- 🛒 **Prime_Vault** — E-commerce with theme editor  
+- 🎨 **Rive Onboarding Animations**  
+- 🧪 **Fraud Detection (Decision Tree ML)**  
+- ✨ **AI Teeth Whitening Generator**  
 
 ---
 
-## 🌐 Tech Stack  
-`Flutter` • `Dart` • `Rive` • `Next.js` • `React` • `Python`  
-`Django` • `DRF` • `PostgreSQL` • `Supabase` • `Firebase`  
-`AI/ML` • `Gemini` • `OpenAI` • `OCR` • `Sanity CMS`
+<!-- ─────────────────────────────────────────────────────────── -->
+# 📊 GitHub Analytics (Dark • Neon • Premium)
+<!-- ─────────────────────────────────────────────────────────── -->
 
----
-
-## 🚀 Projects From the Future  
-⭐ **MobiSpec** — AI-powered smartphone explorer  
-⭐ **Prime_Vault** — Shopify-like theme engine in Flutter  
-⭐ **Chatbot App** — Gemini-driven real-time agent  
-⭐ **AI Whitening Generator**  
-⭐ **Real-time Bus Booking System**  
-⭐ **OCR Vision App**
-
----
-
-## 🌀 Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaryabofficial&show_icons=true&theme=neon&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaryabofficial&theme=neon-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaryab-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaryab-dev&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
 </p>
 
 ---
 
-## 🌐 Connect  
-🌎 https://zaryab.dev  
-📧 contact@zaryab.dev  
+<!-- ─────────────────────────────────────────────────────────── -->
+# 👁 Visitor Counter
+<!-- ─────────────────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaryabofficial&color=00ffff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Zaryab-dev&color=38bdf8&style=flat-square&label=Profile+Views" />
 </p>
 
-```
-> Initializing profile…
-> Loading developer modules…
-> Status: ONLINE
-```
+---
 
-# 👨‍💻 Muhammad Zaryab  
-**Full-Stack Developer | Flutter • Django • Next.js • AI**
+<!-- ─────────────────────────────────────────────────────────── -->
+# 🔗 Connect With Me
+<!-- ─────────────────────────────────────────────────────────── -->
+
+🌐 Website: **https://zaryab.dev**  
+📧 Email: **contact@zaryab.dev**  
+🐦 Twitter: **@yourusername**  
+💼 LinkedIn: *(Add your link)*  
 
 ---
 
-### [ SYSTEM: ABOUT ]  
-- Building cross-platform applications  
-- Architecting Django REST APIs  
-- Designing modern Next.js experiences  
-- Integrating AI into real-world apps  
+# 🌟 Thanks for Visiting My Cyber Profile  
+If you want me to:
 
----
+✅ Generate your futuristic GitHub Banner  
+✅ Add dark gradient animations  
+✅ Create a fully pastel or brutalist README  
+✅ Add glowing borders, grids, holographic dividers  
 
-### [ SYSTEM: TECH STACK ]  
-> Flutter, Dart, Rive  
-> Django, Python, DRF  
-> PostgreSQL, Firebase, Supabase  
-> Next.js, React, TypeScript  
-> AI: Gemini, OpenAI, OCR  
+Just say the word.
 
----
-
-### [ SYSTEM: PROJECTS ]  
-- MobiSpec → smartphone specification engine  
-- Prime_Vault → e-commerce theme editor  
-- OCR Vision App  
-- Gemini Chatbot  
-- Bus Booking (real-time)  
-- AI Whitening Tool  
-
----
-
-### [ SYSTEM: CONTACT ]  
-> Website: zaryab.dev  
-> Email: contact@zaryab.dev
-
-```
-> Terminal closing…  
-> GitHub session active.
-```
-
-# 👋 Hi, I'm **Muhammad Zaryab**
-
-A **Full-Stack Developer** crafting scalable apps with **Flutter**, **Django**, **Next.js**, and **AI automation**.  
-I combine strong engineering with design-focused thinking to build smooth, beautiful, and production-ready software.
-
----
-
-## 🚀 What I Build
-### 📱 Mobile Apps (Flutter)
-- Real-time systems  
-- Rive animations & custom UI  
-- AI-powered utilities (OCR, whitening, chatbots)
-
-### 🌐 Web Experiences (Next.js)
-- SEO-optimized websites  
-- Sanity CMS integrations  
-- Automated blogging systems  
-
-### 🐍 Backend Engineering (Django)
-- REST APIs  
-- Data analytics  
-- Secure e-commerce logic  
-- Fraud detection algorithms  
-
----
-
-## 🧰 Tech Stack
-**Languages:** Dart, Python, TypeScript  
-**Frameworks:** Flutter, Django, Next.js  
-**Databases:** PostgreSQL, Firebase, Supabase  
-**AI:** Gemini, OpenAI, Tesseract OCR  
-**Tools:** GitHub, Vercel, Firebase Hosting  
-
----
-
-## ✨ Featured Projects
-- **MobiSpec** — Multi-platform smartphone spec platform  
-- **Prime_Vault** — Flutter-based e-commerce engine  
-- **Chatbot App** — Gemini API with persistent storage  
-- **Bus Booking App** — Real-time seat availability  
-- **AI Whitening Tool** — API-based whitening results  
-- **OCR App** — Beautiful glass UI + Tesseract  
-
----
-
-## 📬 Contact  
-- Website: https://zaryab.dev  
-- Email: contact@zaryab.dev  
-
----
-
-Thanks for visiting my profile!  
-Let’s build something great together. 🚀
